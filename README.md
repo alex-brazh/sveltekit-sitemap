@@ -1,9 +1,9 @@
-# Changes made by Joonel (me)
+# Changes made by Alex Brazh (me)
 
 This is a fork of https://github.com/beynar/sveltekit-sitemap
 Actually I fixed all currently opened issues of the original repo (screenshot below). Priority tags removed completely as they are vestigial.
 
-![image](https://github.com/Joonel/sveltekit-sitemap/assets/69682842/28311702-5343-41e5-ab90-8d18ec37229c)
+![image](https://github.com/alex-brazh/sveltekit-sitemap/assets/69682842/28311702-5343-41e5-ab90-8d18ec37229c)
 
 
 
@@ -18,7 +18,7 @@ This library is not meant to generate a static sitemap at build time. It's there
 ## Usage
 
 ```shell
-npm install Joonel/sveltekit-sitemap
+npm install alex-brazh/sveltekit-sitemap
 ```
 
 1. Add the vite plugin
